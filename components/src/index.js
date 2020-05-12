@@ -1,3 +1,4 @@
+// This project demonstrates how to pass props with functional components
 import React from "react";
 import ReactDOM from "react-dom";
 import faker from "faker";
